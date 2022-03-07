@@ -12,7 +12,9 @@
                                                 alt="Docker"
                                                 style="height: 40px; width: 40px;" /> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"
                                                                                            alt="c++"
-                                                                                           style="height: 40px; width: 40px;" />
+                                                                                           style="height: 40px; width: 40px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"
+                                                                                                                                      alt="Visual Studio"
+                                                                                                                                      style="height: 40px; width: 40px;" />
 
 <!---
 whickoi/whickoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
