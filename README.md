@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whickoi
+- 👋 Hi, I’m @Whickoi
 - 👀 I’m interested in: **Application Development.**
 - 🌱 I’m currently learning: **Java, C++, Docker.**
 - 📫 How to reach me: **which.koi@gmail.com**
