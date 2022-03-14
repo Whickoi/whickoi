@@ -15,6 +15,9 @@
                                                                                            style="height: 40px; width: 40px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"
                                                                                                                                       alt="Visual Studio"
                                                                                                                                       style="height: 40px; width: 40px;" />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+     alt="Python"
+     style="height: 40px; width: 40px;" />
 
 <!---
 whickoi/whickoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
